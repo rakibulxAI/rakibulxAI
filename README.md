@@ -25,10 +25,9 @@ Hi, I’m **Rakibul 🚀**, a tech enthusiast fuelled by the energy of the cosmo
 
 My core passions:
 - 🤖 Artificial Intelligence  
-- 🛰️ Blockchain Technology  
 - 🛡️ Cybersecurity  
 
-Whether it’s AI models, secure code, or decentralized systems, I’m building for a bold future.
+Whether it’s AI models, secure code, I’m building for a bold future.
 
 ---
 
@@ -39,7 +38,6 @@ Whether it’s AI models, secure code, or decentralized systems, I’m building 
 | C/C++ | Linux, GCC | Low-Level Programming |
 | Python | TensorFlow, OpenCV | AI/ML, Automation |
 | Java | Spring, Android | App Security & Backend |
-| Solidity | MetaMask, Web3.js | Smart Contracts & DApps |
 
 Currently exploring **wormholes of knowledge** through deep dives into:
 - Neural Networks & LLMs 🤯  
@@ -52,7 +50,6 @@ Currently exploring **wormholes of knowledge** through deep dives into:
 
 I’m looking to collaborate on missions that:
 - Advance human potential with **AI-first systems**
-- Build **decentralized trustless tech** (blockchain)
 - Push cybersecurity boundaries with automation
 - Help humanity become a **multi-planetary species** through tech 🌌
 
