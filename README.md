@@ -1,7 +1,7 @@
 <!-- Futuristic GitHub Profile Readme for Rakibul Islam -->
 
 <h1 align="center">
- Rakibul 🪐  
+🔭 Rakibul 🪐  
 </h1>
 
 <p align="center">
