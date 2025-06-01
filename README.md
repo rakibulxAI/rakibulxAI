@@ -73,8 +73,10 @@ Let’s make the future a product of bold engineering, not passive waiting.
 
 ## 🕳️ Fun Fact
 
-> I’m always orbiting around some **screen**, deep inside a digital wormhole, learning, building, and preparing for the next big thing.
-
+> When not coding, you'll find me either:
+Watching SpaceX launches live 🚀
+Experimenting with AI research papers
+Debating the ethical implications of emerging technologies.
 ---
 
 ## 🌌 Inspired By
