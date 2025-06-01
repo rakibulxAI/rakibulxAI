@@ -75,31 +75,17 @@ Let’s make the future a product of bold engineering, not passive waiting.
 
 > I’m always orbiting around some **screen**, deep inside a digital wormhole, learning, building, and preparing for the next big thing.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" />
-</p>
-
 ---
 
 ## 🌌 Inspired By
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/SpaceX_Logo_Black.png" height="60px" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tesla_Motors_logo.png" height="60px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Neuralink_Logo_2021.svg" height="60px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/X_logo_2023.svg" height="50px" />
-</div>
-
 ---
-
 <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/wave.svg" />
-  <br />
   <strong>“Occupy Mars. Automate Earth.”</strong>  
   <br /><br />
-  <em>— Rakibul 🔭🌌🚀 </em>  
+  <em> 🔭🌌🚀 </em>  
 </p>
-
+</p>
 
 <!--
 **rakibulxAI/rakibulxAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
