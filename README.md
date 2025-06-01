@@ -1,7 +1,7 @@
 <!-- Futuristic GitHub Profile Readme for Rakibul Islam -->
 
 <h1 align="center">
-  🚀 Rakibul 🪐  
+ Rakibul 🪐  
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 > *"When something is important enough, you do it even if the odds are not in your favor."*  
 > – **Elon Musk**
 
-Hi, I’m **Rakibul 💚**, a tech enthusiast fuelled by the energy of the cosmos and inspired by Elon Musk’s fearless pursuit of the impossible. I believe the universe isn’t the limit — it’s just the beginning.
+Hi, I’m **Rakibul 🚀**, a tech enthusiast fuelled by the energy of the cosmos and inspired by Elon Musk’s fearless pursuit of the impossible. I believe the universe isn’t the limit — it’s just the beginning.
 
 My core passions:
 - 🤖 Artificial Intelligence  
