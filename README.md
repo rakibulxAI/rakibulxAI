@@ -61,7 +61,7 @@ Let’s make the future a product of bold engineering, not passive waiting.
 
 | Platform | Handle |
 |---------|--------|
-| X (Twitter) | [@rak1bulxAI](https://x.com/rak1bulxAI) |
+| X (Twitter) | [@rakibulxAI](https://x.com/rakibulxAI) |
 | GitHub | [rakibulxAI](https://github.com/rakibulxAI) |
 
 💬 DMs open for collaboration, discussion, and sharing Elon-mode tech dreams.
