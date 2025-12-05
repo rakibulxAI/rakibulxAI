@@ -1,10 +1,20 @@
+<!-- ===========================
+ 🚀 COSMIC README FOR RAKIBUL
+ Fully Mars & Space Themed
+ All Content Preserved
+ =========================== -->
+
 <h1 align="center">
-  <span style="font-size: 3rem;">🔭 Rakibul 🪐</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=F05A28&center=true&vCenter=true&width=600&lines=🔭+Rakibul+🪐;Dreaming+Beyond+the+Stars" />
 </h1>
 
 <h3 align="center">
   <strong>Dreaming Beyond the Stars. Vibing Like I'm Already There.</strong>
 </h3>
+
+<p align="center">
+  <img src="https://github.com/rakibulxAI.png" width="120" style="border-radius: 50%;"/>
+</p>
 
 ---
 
@@ -25,7 +35,11 @@ Whether it’s AI models or secure code, I’m building for a bold future.
 
 ## 🌌 **Tech Stack Under Warp Drive**
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/MARS%20TECH%20STACK-F05A28?style=for-the-badge&logo=tesla&logoColor=white" />
+</p>
+
+<table align="center">
 <tr>
 <th>Language</th>
 <th>Frameworks / Tools</th>
@@ -68,7 +82,11 @@ Let’s engineer the future instead of waiting for it.
 
 ## 🛰️ **Connect With Me**
 
-<table>
+<p align="center">
+  <img src="https://img.shields.io/badge/CONTACT%20SIGNALS-F05A28?style=for-the-badge&logo=spacex&logoColor=white" />
+</p>
+
+<table align="center">
 <tr><th>Platform</th><th>Handle</th></tr>
 <tr>
 <td>X (Twitter)</td>
@@ -86,7 +104,7 @@ Let’s engineer the future instead of waiting for it.
 
 When not vibing, you'll find me:  
 - Watching SpaceX launches live 🚀  
-- Reading AI blogs 
+- Reading AI blogs  
 - Debating ethical implications of emerging technologies  
 
 ---
@@ -94,7 +112,13 @@ When not vibing, you'll find me:
 ## 🌌 **Inspired By**
 
 <p align="center">
-  <strong>“Occupy Mars. Automate Earth.”</strong>  
+  <strong>“Occupy Mars. Automate Earth.”</strong>
   <br/><br/>
   <em>🔭🌌🚀</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=FF6A3D&center=true&vCenter=true&width=600&lines=Made+for+the+Future.;Built+for+Mars.;Powered+by+Curiosity+and+AI." />
 </p>
