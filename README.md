@@ -80,15 +80,13 @@ Let’s engineer the future instead of waiting for it.
 </tr>
 </table>
 
-💬 DMs are open for collaboration, discussions, and sharing Elon-mode tech dreams.
-
 ---
 
 ## 🕳️ **Fun Fact**
 
 When not vibing, you'll find me:  
 - Watching SpaceX launches live 🚀  
-- Experimenting with AI blogs 
+- Reading AI blogs 
 - Debating ethical implications of emerging technologies  
 
 ---
