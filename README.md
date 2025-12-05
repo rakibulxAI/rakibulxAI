@@ -24,7 +24,7 @@ Whether it’s AI models or secure code, I’m building for a bold future.
 ## 🌌 **Tech Stack Under Warp Drive**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20TECH%20STACK-F05A28?style=for-the-badge&logo=tesla&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIBING%20TECH%20STACK-F05A28?style=for-the-badge&logo=tesla&logoColor=white" />
 </p>
 
 <table align="center">
