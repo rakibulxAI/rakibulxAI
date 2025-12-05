@@ -9,7 +9,8 @@
 > *"When something is important enough, you do it even if the odds are not in your favor."*  
 > — **Elon Musk**
 
-Hi, I’m **Rakibul 🚀**, a tech enthusiast fuelled by cosmic curiosity and inspired by Elon Musk’s fearless pursuit of the impossible. I believe the universe isn't the limit — it's the *starting point*.
+Hi, I’m Rakibul 🚀 — a tech mind powered by cosmic curiosity and high level ambition.
+I don’t see the universe as a limit. I see it as the launchpad.
 
 ### My core passions:
 - 🤖 Artificial Intelligence  
