@@ -77,7 +77,7 @@ Let’s engineer the future instead of waiting for it.
 <table align="center">
 <tr><th>Platform</th><th>Handle</th></tr>
 <tr>
-<td>X (Twitter)</td>
+<td>X</td>
 <td><a href="https://x.com/rakibulxAI" target="_blank">rakibulxAI</a></td>
 </tr>
 <tr>
