@@ -1,20 +1,6 @@
-<!-- ===========================
- 🚀 COSMIC README FOR RAKIBUL
- Fully Mars & Space Themed
- All Content Preserved
- =========================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=F05A28&center=true&vCenter=true&width=600&lines=🔭+Rakibul+🪐;Dreaming+Beyond+the+Stars" />
-</h1>
-
 <h3 align="center">
   <strong>Dreaming Beyond the Stars. Vibing Like I'm Already There.</strong>
 </h3>
-
-<p align="center">
-  <img src="https://github.com/rakibulxAI.png" width="120" style="border-radius: 50%;"/>
-</p>
 
 ---
 
