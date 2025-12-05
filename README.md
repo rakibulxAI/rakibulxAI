@@ -78,11 +78,11 @@ Let’s engineer the future instead of waiting for it.
 <tr><th>Platform</th><th>Handle</th></tr>
 <tr>
 <td>X (Twitter)</td>
-<td><a href="https://x.com/rakibulxAI">@rakibulxAI</a></td>
+<td><a href="https://x.com/rakibulxAI" target="_blank">rakibulxAI</a></td>
 </tr>
 <tr>
 <td>GitHub</td>
-<td><a href="https://github.com/rakibulxAI">rakibulxAI</a></td>
+<td><a href="https://github.com/rakibulxAI" target="_blank">rakibulxAI</a></td>
 </tr>
 </table>
 
