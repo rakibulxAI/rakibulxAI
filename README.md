@@ -1,10 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=FF6A3D&center=true&width=700&lines=Thinking+Beyond+the+Stars." />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=9B59FF&center=true&width=700&lines=Vibing+As+If+I'm+Already+There." />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=00D1FF&center=true&width=700&lines=Built+for+What's+Next." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=9B59FF&center=true&vCenter=true&width=600&lines=Thinking+Beyond+the+Stars.;Vibing+As+If+I'm+Already+There.;Built+for+What's+Next." />
 </p>
 
 ---
