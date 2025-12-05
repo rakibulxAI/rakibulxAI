@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <strong>Dreaming Beyond the Stars. Coding Like I'm Already There.</strong>
+  <strong>Dreaming Beyond the Stars. Vibing Like I'm Already There.</strong>
 </h3>
 
 ---
@@ -86,9 +86,9 @@ Let’s engineer the future instead of waiting for it.
 
 ## 🕳️ **Fun Fact**
 
-When not coding, you'll find me:  
+When not vibing, you'll find me:  
 - Watching SpaceX launches live 🚀  
-- Experimenting with AI research papers  
+- Experimenting with AI blogs 
 - Debating ethical implications of emerging technologies  
 
 ---
