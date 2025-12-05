@@ -1,8 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=FF6A3D&center=true&vCenter=true&width=600&lines=Thinking+Beyond+the+Stars.;
-Vibing+As+If+I'm+Already+There.;
-Built+for+What’s+Next." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=FF6A3D&center=true&vCenter=true&width=600&lines=Thinking+Beyond+the+Stars.;Vibing+As+If+I'm+Already+There.;Built+for+What’s+Next." />
 </p>
 
 <h3 align="center">
